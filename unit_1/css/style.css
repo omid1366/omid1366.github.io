@@ -1,18 +1,24 @@
 
 body {
-	color: white;
+	text-align: center;
+	color: black;
 	
-	background-color: Black;
+	background-color: gray;
 	font-family: Futura, sans-serif;
 
 }
 
 h1 {
-	color: gold;
+	font-weight: bold;
+	color: orange;
+	font-size: 38px
+
 }
 
 a {
 	color: white;
+	text-decoration: none;
+	font-style: italic;
 }
 
 a:hover {
