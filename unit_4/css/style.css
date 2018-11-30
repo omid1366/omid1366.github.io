@@ -69,10 +69,18 @@ a {
 	margin-right: 10px;
 }
 
+section {
+	width: 52%;
+	font-size: 1.3em;
+	text-align: center;
+	padding:4%;
+}
+
 footer {
 	background-color: #cccccc;
 	padding: 10%;
 	text-align: center;
+	padding: 2em auto;
 }
 
 a:hover {
@@ -85,19 +93,20 @@ a:hover {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	width: 100%;
 	height:600px;
 	padding:20px 0;
 
 }
 
-.creativity{
+/*.creativity{
 	width: 52%;
 	font-size: 1.3em;
 	text-align: center;
 	padding:2%;
  	margin: 2em auto;
 }
-
+*/
 .keyart{
  	width:47%;
 	float: left;
